@@ -1,9 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibsat Jahangir
 ======================================================================================================================================
 
-Machine Learning and Data Science Engineer
+Flutter Developer (Front-End and Back-End)
 ------------------------------------------
 
+Innovative and dedicated Flutter developer with a passion for transforming ideas into stunning mobile experiences. Leveraging the power of Flutter's reactive framework and expressive UI components, I craft visually appealing and performant applications that engage users and drive business success.
 Motivated machine learning engineer with skills in data mining and algorithms. Possess an unbridled passion for Artificial Intelligence with comprehensive knowledge of machine learning concepts and other related technologies.
 
 * 🌍  I'm based in Pakistan
